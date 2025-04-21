@@ -40,3 +40,12 @@ a {
     color-scheme: dark;
   }
 }
+
+.container {
+  display: flex;
+  height: 800px;
+  gap: 30px;
+}
+.column {
+  width: 500px;
+}
